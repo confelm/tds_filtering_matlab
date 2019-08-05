@@ -23,7 +23,7 @@
 ```
 sh process_tds.sh
 ```
-## Processed data guidelines 
+### Processed data - Output
 
 1. Processed data can be found under: `"UserDirectory"\data\processed\` in pc, or under: `"UserDirectory"/data/processed` in Unix operating systems. 
    Data are organized in folders following country naming conventions, for example data for Argentina would be stored in `"UserDirectory"\data\processed\argentina\`.
