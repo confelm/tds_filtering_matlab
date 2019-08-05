@@ -14,7 +14,7 @@
 
 1. Open `data_extraction_guide.pdf`
 2. Follow all steps described in document to collect the raw sample. Alternatively you can download a sample for TDS data from : [https://drive.google.com/open?id=169yO3pnM8rJ5kjLRyLg235KAv-sXX_DA].
-3. Copy the data to `"UserDirectory"` as defined in guide, section 2 step 1, for example : `C:\tds` for pc or `/home/tds` for Unix operating systems. 
+3. Copy the data to `"UserDirectory"` as defined in guide, section 2 step 1 at page 1, for example : `C:\tds` for pc or `/home/tds` for Unix operating systems. 
 
 ### Process raw TDS data
 
