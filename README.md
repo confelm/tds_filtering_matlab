@@ -2,7 +2,7 @@
 
 ## Thomson Reuters Datastream (TDS) data extraction guidelines 
 ## Online Appendix 
-## A granular approach to international equity data from Thompson Datastream
+## A granular approach to international equity data from Thomson Datastream
 ## Landis and Skouras (2019)
 
 ### Update repository
