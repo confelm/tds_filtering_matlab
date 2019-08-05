@@ -9,13 +9,12 @@
 
 ### Update repository
 
-1. Goto: [https://xxx]
-2. Clone/unpack to a local directory of your choice. 
+1. Clone/unpack to a local directory of your choice. 
 3. Verify MATLAB® 2017a or later and Microsoft Office® 2010 or later is installed. 
 
 ### Prepare sample 
 
-1. Goto: [https://xxx] to download data extraction guide. 
+1. Open "data_extraction_guide.pdf"
 
 2. Follow all steps described in document to collect the sample. 
    Alternatively Goto : [https://drive.google.com/open?id=169yO3pnM8rJ5kjLRyLg235KAv-sXX_DA], to download a sample of TDS data. 
