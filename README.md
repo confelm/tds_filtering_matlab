@@ -5,8 +5,6 @@
 ## A granular approach to international equity data from Thompson Datastream
 ## Landis and Skouras (2019)
 
-## Process TDS data
-
 ### Update repository
 
 1. Clone/unpack to a local directory of your choice. 
@@ -14,10 +12,9 @@
 
 ### Prepare sample 
 
-1. Open "data_extraction_guide.pdf"
+1. Open `data_extraction_guide.pdf`
 
-2. Follow all steps described in document to collect the sample. 
-   Alternatively Goto : [https://drive.google.com/open?id=169yO3pnM8rJ5kjLRyLg235KAv-sXX_DA], to download a sample of TDS data. 
+2. Follow all steps described in document to collect the raw sample. Alternatively you can download a sample for TDS data from : [https://drive.google.com/open?id=169yO3pnM8rJ5kjLRyLg235KAv-sXX_DA].
 
 3. Copy the data to specific directory (`"UserDirectory"` moving forward, for example, `C:\tmp\tds` for pc or `/home/tmp/tds` for Unix operating systems). 
 
