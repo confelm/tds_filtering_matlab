@@ -1,4 +1,4 @@
-## Step-by-step instructions to  process data according to the methodology described in "Guidelines for asset pricing research using international equity data from Thomson Reuters Datastream" (Landis and Skouras, 2019)
+## Step-by-step instructions to  process data according to the methodology described in "Guidelines for asset pricing research using international equity data from Thomson Reuters Datastream" (Landis and Skouras, 2021)
 
 ### Set-up
 
